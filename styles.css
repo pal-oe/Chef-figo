@@ -3,6 +3,9 @@
 a{
     font-family: 'Dancing Script', cursive;
 }
+li{
+    style=" font-family: 'Dancing Script', cursive;"
+}
 .link-list{
     padding: 2%;
     font-size: 1.5rem;
