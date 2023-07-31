@@ -27,3 +27,8 @@ p{
     font-family: 'Kaushan Script', cursive;
     font-size: 3.5rem;
 }
+/* order-btn */
+.order-btn{
+    height: 2rem;
+    width: 6rem;
+}
