@@ -1,5 +1,9 @@
 /* top left link list */
 
+body{
+    padding: 5px 2px 10px;
+}
+
 a{
     font-family: 'Dancing Script', cursive;
 }
